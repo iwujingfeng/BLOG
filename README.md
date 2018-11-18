@@ -1,17 +1,15 @@
 **目录**
 
-**专题一 前端技术精华清单**
+**开发系列**
 
-[年终回顾，为你汇总一份「前端技术清单」][1]
+[一次关于小程序开发的深度总结][1]
 
-**专题二 面试题大全**
+**总结系列**
 
-[20个必会的JavaScript面试题][2]
-[最全前端面试问题及答案总结][3]
+[前端面试题精华筛选][2]
 
 
-  [1]: https://blog.fundebug.com/2018/11/16/frontend-tech-list/
-  [2]: https://segmentfault.com/a/1190000008785931
-  [3]: https://www.cnblogs.com/autismtune/p/5210116.html
+  [1]: https://github.com/iwujingfeng/BLOG/issues/1
+  [2]: https://github.com/iwujingfeng/BLOG/issues/2
 
 持续更新中···
